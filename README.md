@@ -6,7 +6,8 @@ Expected Features :
 -Organisations create profiles, post their jobs, internships and hire on the platform.
 -SPOCs & Placement officers register and maintain their colleges' profiles.
 -Student registration and job search for matching profiles
--Faculty review of matching jobs and student profiles. Provide mentorship to students for applying to jobs on the platform.
+-Faculty review of matching jobs and student profiles.
+-Provide mentorship to students for applying to jobs on the platform.
 
 >Project was made using Adobe XD
 
